@@ -17,3 +17,10 @@
 
 **Link to work:** [Walk-in Clinic](http://www.github.com/n-maido/walk-in-clinic)
 
+### Day 2: October 19, 2020
+
+**Today's Progress**: Brainstormed project specifics (name, etc). Implemented functions that: display a welcome message in a box, display the main menu options.
+
+**Thoughts:** Getting the stars of the box border to line up was satisfying. I think I spent too much time re-compiling the program to ooh and ahh at the display lol.
+
+**Link to work:** [Walk-in Clinic](http://www.github.com/n-maido/walk-in-clinic)
