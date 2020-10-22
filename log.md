@@ -24,3 +24,10 @@
 **Thoughts:** Getting the stars of the box border to line up was satisfying. I think I spent too much time re-compiling the program to ooh and ahh at the display lol.
 
 **Link to work:** [Walk-in Clinic](http://www.github.com/n-maido/walk-in-clinic)
+
+### Day 3: October 21, 2020
+
+**Today's Progress**: Implemented a do-while loop to handle user requests. Added a function that clears the terminal when an option is selected.
+
+**Link to work:** [Walk-in Clinic](http://www.github.com/n-maido/walk-in-clinic)
+
