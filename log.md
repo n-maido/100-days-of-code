@@ -31,3 +31,9 @@
 
 **Link to work:** [Walk-in Clinic](http://www.github.com/n-maido/walk-in-clinic)
 
+### Day 4: November 10, 2020
+
+**Today's Progress**: Started implementing option 1: create new patient record. Might change list to an LL instead of an array
+
+**Link to work:** [Walk-in Clinic](http://www.github.com/n-maido/walk-in-clinic)
+
